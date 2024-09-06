@@ -1,0 +1,9 @@
+../ie0117/
+├── laboratorios
+│   └── 1
+│       └── miprograma.bash
+├── quices
+│   └── tree.txt
+└── README.md
+
+4 directories, 3 files
