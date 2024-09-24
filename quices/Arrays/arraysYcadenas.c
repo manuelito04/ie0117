@@ -1,3 +1,8 @@
+// El presente es un programa al cual le ingresa una palabra de maximo 20 caracteres,
+// la imprime, calcula su longitud y la imprime de manera inversa.
+
+// Realizado por Manuel Otarola Madrigal - C05740.
+
 #include <stdio.h>
 #include <string.h>
 
