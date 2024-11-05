@@ -33,6 +33,7 @@ void logMensaje(enum LogNiveles nivel, const char *mensaje) {
     }
 }
 
+// Se implementa el controlador del sistema encargado de mostrar los mensajes segun el mensaje de log.
 int main() {
     logMensaje(INFO, "Inicio del programa");
     logMensaje(DEBUG, "Variable x inicializada a 0");
